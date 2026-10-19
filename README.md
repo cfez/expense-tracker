@@ -32,8 +32,6 @@ git clone https://github.com/cfez/expense-tracker.git
 cd expense-tracker
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ### 2. Run the application
 
 ```bash
@@ -63,7 +61,7 @@ Keep backups of your personal expense data in a safe location.
 
 ## Future Improvements
 
-Possible future improvements include automated tests, budget limits, and data visualization.
+Possible future improvements include automated tests, and data visualization.
 
 ## Author
 
