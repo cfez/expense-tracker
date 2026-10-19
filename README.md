@@ -28,7 +28,7 @@ Check your source code for any additional dependencies before running the applic
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-tracker.git
+git clone https://github.com/cfez/expense-tracker.git
 cd expense-tracker
 ```
 
