@@ -2,6 +2,10 @@
 
 A command-line expense tracker built with Python to help manage daily spending, organize expenses by category, and understand monthly spending patterns.
 
+## Screenshot
+
+![Personal Expense Tracker running in the terminal](screenshots/expense-tracker.png)
+
 ## Features
 
 - Add, view, edit, and delete expenses.
