@@ -4,14 +4,13 @@ A command-line expense tracker built with Python to help manage daily spending, 
 
 ## Features
 
-- Add and manage expenses.
+- Add, view, edit, and delete expenses.
 - Record expense descriptions, amounts, dates, and categories.
-- View recorded expenses.
-- Edit existing expenses.
 - Calculate total spending.
 - Group expenses by category.
 - View monthly spending summaries.
 - Identify the month with the highest spending.
+- Set and track a spending budget.
 - Export expense records to CSV.
 - Store expense data locally in JSON format.
 - Format monetary values in Nigerian naira (₦).
@@ -19,9 +18,7 @@ A command-line expense tracker built with Python to help manage daily spending, 
 ## Requirements
 
 - Python 3.10 or later recommended.
-- No external packages are required for the core functionality if the application uses only Python's standard library.
-
-Check your source code for any additional dependencies before running the application.
+- No external packages required if the application uses only Python's standard library.
 
 ## Getting Started
 
@@ -48,7 +45,9 @@ Follow the prompts in the terminal to manage your expenses.
 
 ## Data and Privacy
 
-Expense records are stored locally in `expenses.json`. This file is excluded from version control so personal spending information is not uploaded to GitHub.
+Expense records are stored locally in `expenses.json`. This file is excluded from version control to help prevent personal spending information from being uploaded to GitHub.
+
+The application may also create local budget settings and CSV exports. These personal files should remain excluded from version control.
 
 Keep backups of your personal expense data in a safe location.
 
@@ -61,7 +60,9 @@ Keep backups of your personal expense data in a safe location.
 
 ## Future Improvements
 
-Possible future improvements include automated tests, and data visualization.
+- Add automated tests.
+- Improve error handling and input validation.
+- Add spending visualizations.
 
 ## Author
 
